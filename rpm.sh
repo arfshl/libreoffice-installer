@@ -1,6 +1,6 @@
 #!/bin/sh
-print "LibreOffice Installer"
-print "tar xzvf LibreOffice_*_Linux_x86-rpm*.tar.gz
+echo "LibreOffice Installer"
+echo "tar xzvf LibreOffice_*_Linux_x86-rpm*.tar.gz
 rm LibreOffice_*_Linux_x86-rpm*.tar.gz
 cd LibreOffice*
 cd RPMS
