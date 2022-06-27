@@ -18,4 +18,4 @@ LibreOffice installer script
 
       $ flatpak install flathub org.libreoffice.LibreOffice
 
-### [Official installing guide](https://wiki.documentfoundation.org/Installing_LibreOffice_on_Linux)
+#### [Official installing guide](https://wiki.documentfoundation.org/Installing_LibreOffice_on_Linux)
